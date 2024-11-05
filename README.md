@@ -2,15 +2,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-npm install
+ # npm install
 
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+ # npm run dev
+ or
+ # yarn dev
+ or
+# pnpm dev
+
 
 
 ## About :-
