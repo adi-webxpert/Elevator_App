@@ -2,13 +2,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
- # npm install
+ ## npm install
 
- # npm run dev
+ ## npm run dev
  or
- # yarn dev
+ ## yarn dev
  or
-# pnpm dev
+## pnpm dev
 
 
 
